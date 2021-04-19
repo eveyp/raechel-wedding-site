@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-left align-justify image-position-center onscroll-image-fade-in"
+id: "wedding-details"
+title : "Wedding Details"
+content: |
+  We decided early on to prioritize the health and safety of our friends and families and limit our wedding ceremony to immediate family members only.  The past year has been long and difficult and while we would love to be able to celebrate with everyone in person, we are hoping that this virtual ceremony allows everyone to be a part of the day. Come back here on August 21st and watch the livestream of our wedding ceremony.
+# button: 
+#   label: "Learn More"
+#   link: "#"
+image: "images/new_house.jpg"

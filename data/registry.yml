@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "registry"
+title : "Registry"
+content: |
+  We have had some inquiries as to where we are registered.  Our intention for this website and livestream is to be able to safely share our day with our loved ones.  If you feel like purchasing us a gift, we are registered at TKTK for a few items at the button below.  However, a gift is in no way expected and your well wishes are more than enough!
+button: 
+  label: "TKTK Registry"
+  link: "https://example.com"
+image: "images/green_field.jpg"
