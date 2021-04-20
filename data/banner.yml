@@ -1,10 +1,20 @@
 ####################### Banner #########################
-style: "style5 orient-center content-align-center image-position-center fullscreen onload-image-fade-in onload-content-fade-right color1 invert"
+style: "style1 orient-center content-align-center image-position-center fullscreen onload-image-fade-in onload-content-fade-right"
 title : "Raechel & Nick"
 subtitle: |
-  August 21, 2021 <br />
+  August 21, 2021 at 4 PM <br />
   Falmouth, Massachusetts
-content : |
-#  <span class="demo-controls">appearance with a number of modifiers</span>
-image : "images/wedding2.jpg"
-
+button1:
+  label: Our Story
+  link: "#our-story"
+button2:
+  label: Wedding Details
+  link: "#wedding-details"
+button3:
+  label: Viewing FAQs
+  link: "#viewing-faqs"
+button4:
+  label: Registry
+  link: "#registry"
+  
+image : "images/wedding_crop.jpg"
