@@ -11,8 +11,8 @@ button2:
   label: Wedding Details
   link: "#wedding-details"
 button3:
-  label: Viewing FAQs
-  link: "#viewing-faqs"
+  label: Ceremony Video
+  link: "https://event.lovecastapp.com/0821-W89J5PN"
 button4:
   label: Registry
   link: "#registry"
